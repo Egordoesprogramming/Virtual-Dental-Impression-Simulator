@@ -1,0 +1,2 @@
+C:\Users\VR and MoCap Station\Desktop\FireEvacuation1\FireEvacuation\FireEvacuation\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\VR and MoCap Station\Desktop\FireEvacuation1\FireEvacuation\FireEvacuation\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
