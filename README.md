@@ -1,5 +1,5 @@
 # Virtual-Dental-Impression-Simulator
-A medical VR training simulation that requires users to engage in a creating a dental impression. This simulation is being designed for training medical students.
+A medical VR training simulation that requires users to engage in a creating a dental impression. This simulation was designed for training medical students.
 Covering the following steps within the dental mold making process...
 
 Step 1: Mixing necessary ingredients together to make mold mixture
